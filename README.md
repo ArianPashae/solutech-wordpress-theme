@@ -4,8 +4,8 @@
   <br>
   <br>
   <div>
-  <img src="https://mrarian.ir/github/demofatrydo.png" height="380" >
-  <img src="https://mrarian.ir/github/demofatrydo2.png" height="380" >
+  <img src="https://mrarian.ir/github/demoensolutech.png" height="380" >
+  <img src="https://mrarian.ir/github/demoensolutech2.png" height="380" >
       </div>
       <p>🔰امیدوارم مورد استفادتون قرار بگیره🔰</p>
       <p>💜تیم برنامه نویسی آریکسو💜</p>
@@ -33,8 +33,8 @@
   <br>
   <br>
   <div>
-  <img src="https://mrarian.ir/github/demoentrydo.png" height="380" >
-  <img src="https://mrarian.ir/github/demoentrydo2.png" height="380" >
+  <img src="https://mrarian.ir/github/demoensolutech.png" height="380" >
+  <img src="https://mrarian.ir/github/demoensolutech2.png" height="380" >
       </div>
       <p>🔰I hope it will be of use to you🔰</p>
       <p>💜Arixo Development💜</p>
